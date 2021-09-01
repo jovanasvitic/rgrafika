@@ -1,0 +1,106 @@
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\Assimp32.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\Assimp64.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\AssimpNet.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\PF1S2.1.exe.config
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\PF1S2.1.exe
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\PF1S2.1.pdb
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\SharpGL.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.csprojAssemblyReference.cache
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\MainWindow.g.cs
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\App.g.cs
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1_Content.g.cs
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.cache
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.lref
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\MainWindow.baml
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.g.resources
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2._1.Properties.Resources.resources
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.csproj.CoreCompileInputs.cache
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.csproj.CopyComplete
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.exe
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\obj\Debug\PF1S2.1.pdb
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\ModelFormula1\rio.mtl
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\ModelFormula1\rio.obj
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.mtl
+C:\Users\Marijana Kolosnjaji\source\repos\PF1S2.1\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.obj
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\Assimp32.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\Assimp64.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\AssimpNet.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\ModelFormula1\rio.mtl
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\ModelFormula1\rio.obj
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.mtl
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.obj
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\PF1S2.1.exe.config
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\PF1S2.1.exe
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\PF1S2.1.pdb
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\SharpGL.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1_Content.g.cs
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.cache
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.lref
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.g.resources
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2._1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.exe
+C:\Users\Lenovo\Downloads\grafika-formula-1-masterr\grafika-formula-1-master\PF1S2.1\obj\Debug\PF1S2.1.pdb
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_Content.g.cs
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.cache
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.lref
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.g.resources
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2._1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.pdb
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\Assimp32.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\Assimp64.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\AssimpNet.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula1\rio.mtl
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula1\rio.obj
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.mtl
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.obj
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.exe.config
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.exe
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.pdb
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.exe
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\Assimp32.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\Assimp64.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\AssimpNet.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula1\rio.mtl
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula1\rio.obj
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.mtl
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\ModelFormula2\Car_Obj.obj
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.exe.config
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.exe
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\PF1S2.1.pdb
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\bin\Debug\SharpGL.WPF.dll
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_Content.g.cs
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.cache
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1_MarkupCompile.lref
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.g.resources
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2._1.Properties.Resources.resources
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.csproj.CopyComplete
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.exe
+C:\Users\User\Desktop\Downloads\grafika\grafika\PF1S2.1\obj\Debug\PF1S2.1.pdb
