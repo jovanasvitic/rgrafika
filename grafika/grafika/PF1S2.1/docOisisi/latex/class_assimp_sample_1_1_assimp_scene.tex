@@ -1,0 +1,154 @@
+\hypertarget{class_assimp_sample_1_1_assimp_scene}{}\doxysection{Assimp\+Sample.\+Assimp\+Scene Class Reference}
+\label{class_assimp_sample_1_1_assimp_scene}\index{AssimpSample.AssimpScene@{AssimpSample.AssimpScene}}
+
+
+Klasa enkapsulira programski kod za ucitavanje modela pomocu Assimp\+Net biblioteke i prikazivanje modela uz uslonac na Tao\+Framework biblioteku.  
+
+
+Inheritance diagram for Assimp\+Sample.\+Assimp\+Scene\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_assimp_sample_1_1_assimp_scene}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene_a5d4dc62d3b29edbeef06104f0aa6a024}{Assimp\+Scene}} (String scene\+Path, String scene\+File\+Name, Open\+GL \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene_ab2e96af5933dfde1245637c92350f89a}{gl}})
+\begin{DoxyCompactList}\small\item\em Konstruktor klase \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene}{Assimp\+Scene}}. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a53f6d0fce5e9f89358587f28cb5bf584}\label{class_assimp_sample_1_1_assimp_scene_a53f6d0fce5e9f89358587f28cb5bf584}} 
+void {\bfseries Draw} ()
+\begin{DoxyCompactList}\small\item\em Iscrtavanje scene. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a0c7da28d371bb2baea328c6328c32448}\label{class_assimp_sample_1_1_assimp_scene_a0c7da28d371bb2baea328c6328c32448}} 
+void {\bfseries Load\+Scene} ()
+\begin{DoxyCompactList}\small\item\em Ucitavanje podataka o sceni iz odgovarajuceg fajla. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_ab121c4b74012d8a941054c50734e21e5}\label{class_assimp_sample_1_1_assimp_scene_ab121c4b74012d8a941054c50734e21e5}} 
+void {\bfseries Initialize} ()
+\begin{DoxyCompactList}\small\item\em Inicijalizacija i podesavanje Open\+GL parametara. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a00c5c33e5286170334bd6b99937a68b9}\label{class_assimp_sample_1_1_assimp_scene_a00c5c33e5286170334bd6b99937a68b9}} 
+void {\bfseries Dispose} ()
+\begin{DoxyCompactList}\small\item\em Implementacija IDisposable interfejsa. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_aa1c08f3f725583a6e8292b81083b89b8}\label{class_assimp_sample_1_1_assimp_scene_aa1c08f3f725583a6e8292b81083b89b8}} 
+virtual void {\bfseries Dispose} (bool disposing)
+\begin{DoxyCompactList}\small\item\em Metoda za oslobadjanje resursa. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a962e62874572b7dba630e9b935d69e87}\label{class_assimp_sample_1_1_assimp_scene_a962e62874572b7dba630e9b935d69e87}} 
+Assimp.\+Scene {\bfseries Scene}\hspace{0.3cm}{\ttfamily  \mbox{[}getprivate set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Scena koja se prikazuje. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_afda6d3c6cc4a912eedbcd7f30c6f500e}\label{class_assimp_sample_1_1_assimp_scene_afda6d3c6cc4a912eedbcd7f30c6f500e}} 
+{\bfseries $\sim$\+Assimp\+Scene} ()
+\begin{DoxyCompactList}\small\item\em Destruktor klase \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene}{Assimp\+Scene}}. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene_a2d7414b87bb0b36d34aa192b2a3899b6}{Render\+Node}} (Node node)
+\begin{DoxyCompactList}\small\item\em Rekurzivna metoda zaduzena za iscrtavanje objekata u sceni koji su reprezentovani cvorovima. U zavisnosti od karakteristika objekata podesavaju se odgovarajuce promenjive stanja (GL\+\_\+\+LIGHTING, GL\+\_\+\+COLOR\+\_\+\+MATERIAL, GL\+\_\+\+TEXTURE\+\_\+2D). \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene_ab49c2a0134336adff05db53944250ae3}{Load\+Textures}} ()
+\begin{DoxyCompactList}\small\item\em Ucitavanje tekstura. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene_ab17b841fa58b316c45ac3b606a3ee7d4}{Apply\+Material}} (Material material)
+\begin{DoxyCompactList}\small\item\em Primena razlicitih komponenti datog materijala (ambijentalna, difuzna, spekularna, emisiona, sjaj). \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a59a33c6c9064b1b32ec618b6c47ca4c3}\label{class_assimp_sample_1_1_assimp_scene_a59a33c6c9064b1b32ec618b6c47ca4c3}} 
+Assimp.\+Scene {\bfseries m\+\_\+scene}
+\begin{DoxyCompactList}\small\item\em Scena koja se prikazuje. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_ab2e96af5933dfde1245637c92350f89a}\label{class_assimp_sample_1_1_assimp_scene_ab2e96af5933dfde1245637c92350f89a}} 
+Open\+GL {\bfseries gl}
+\begin{DoxyCompactList}\small\item\em Open\+GL referenca koju dobijamo iz aplikacije \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a60edd5cd17b94b928731838a3643c4c7}\label{class_assimp_sample_1_1_assimp_scene_a60edd5cd17b94b928731838a3643c4c7}} 
+Display\+List {\bfseries lista}
+\begin{DoxyCompactList}\small\item\em Display lista preko koje iscrtavamo model \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_afac753aebbf48353df34d05219377719}\label{class_assimp_sample_1_1_assimp_scene_afac753aebbf48353df34d05219377719}} 
+String {\bfseries m\+\_\+scene\+Path}
+\begin{DoxyCompactList}\small\item\em Putanja do foldera u kojem se nalaze podaci o sceni \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a70cd68c9136e93cedbebb0959f88a7ba}\label{class_assimp_sample_1_1_assimp_scene_a70cd68c9136e93cedbebb0959f88a7ba}} 
+String {\bfseries m\+\_\+scene\+File\+Name}
+\begin{DoxyCompactList}\small\item\em Naziv fajla u kojem se nalaze podaci o sceni \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a0ee6da6d74da254652a609c97643f536}\label{class_assimp_sample_1_1_assimp_scene_a0ee6da6d74da254652a609c97643f536}} 
+uint\mbox{[}$\,$\mbox{]} {\bfseries m\+\_\+tex\+Ids}
+\begin{DoxyCompactList}\small\item\em Identifikator tekstura. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_ae07997e122e45af12dc1adfbed3988f9}\label{class_assimp_sample_1_1_assimp_scene_ae07997e122e45af12dc1adfbed3988f9}} 
+Dictionary$<$ Texture\+Slot, uint $>$ {\bfseries m\+\_\+tex\+Mappings}
+\begin{DoxyCompactList}\small\item\em Mapiranje teksture na njen identifikator. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Klasa enkapsulira programski kod za ucitavanje modela pomocu Assimp\+Net biblioteke i prikazivanje modela uz uslonac na Tao\+Framework biblioteku. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a5d4dc62d3b29edbeef06104f0aa6a024}\label{class_assimp_sample_1_1_assimp_scene_a5d4dc62d3b29edbeef06104f0aa6a024}} 
+\index{AssimpSample.AssimpScene@{AssimpSample.AssimpScene}!AssimpScene@{AssimpScene}}
+\index{AssimpScene@{AssimpScene}!AssimpSample.AssimpScene@{AssimpSample.AssimpScene}}
+\doxysubsubsection{\texorpdfstring{AssimpScene()}{AssimpScene()}}
+{\footnotesize\ttfamily Assimp\+Sample.\+Assimp\+Scene.\+Assimp\+Scene (\begin{DoxyParamCaption}\item[{String}]{scene\+Path,  }\item[{String}]{scene\+File\+Name,  }\item[{Open\+GL}]{gl }\end{DoxyParamCaption})}
+
+
+
+Konstruktor klase \mbox{\hyperlink{class_assimp_sample_1_1_assimp_scene}{Assimp\+Scene}}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em scene\+Path} & Putanja do foldera u kojem se nalaze podaci o sceni.\\
+\hline
+{\em scene\+File\+Name} & Naziv fajla u kojem se nalaze podaci o sceni.\\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_ab17b841fa58b316c45ac3b606a3ee7d4}\label{class_assimp_sample_1_1_assimp_scene_ab17b841fa58b316c45ac3b606a3ee7d4}} 
+\index{AssimpSample.AssimpScene@{AssimpSample.AssimpScene}!ApplyMaterial@{ApplyMaterial}}
+\index{ApplyMaterial@{ApplyMaterial}!AssimpSample.AssimpScene@{AssimpSample.AssimpScene}}
+\doxysubsubsection{\texorpdfstring{ApplyMaterial()}{ApplyMaterial()}}
+{\footnotesize\ttfamily void Assimp\+Sample.\+Assimp\+Scene.\+Apply\+Material (\begin{DoxyParamCaption}\item[{Material}]{material }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Primena razlicitih komponenti datog materijala (ambijentalna, difuzna, spekularna, emisiona, sjaj). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em material} & Materijal cije ce karakteristike biti primenjene.\\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_ab49c2a0134336adff05db53944250ae3}\label{class_assimp_sample_1_1_assimp_scene_ab49c2a0134336adff05db53944250ae3}} 
+\index{AssimpSample.AssimpScene@{AssimpSample.AssimpScene}!LoadTextures@{LoadTextures}}
+\index{LoadTextures@{LoadTextures}!AssimpSample.AssimpScene@{AssimpSample.AssimpScene}}
+\doxysubsubsection{\texorpdfstring{LoadTextures()}{LoadTextures()}}
+{\footnotesize\ttfamily void Assimp\+Sample.\+Assimp\+Scene.\+Load\+Textures (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Ucitavanje tekstura. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em texture\+Slot} & Informacije o teksturi koja ce biti ucitana.\\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{class_assimp_sample_1_1_assimp_scene_a2d7414b87bb0b36d34aa192b2a3899b6}\label{class_assimp_sample_1_1_assimp_scene_a2d7414b87bb0b36d34aa192b2a3899b6}} 
+\index{AssimpSample.AssimpScene@{AssimpSample.AssimpScene}!RenderNode@{RenderNode}}
+\index{RenderNode@{RenderNode}!AssimpSample.AssimpScene@{AssimpSample.AssimpScene}}
+\doxysubsubsection{\texorpdfstring{RenderNode()}{RenderNode()}}
+{\footnotesize\ttfamily void Assimp\+Sample.\+Assimp\+Scene.\+Render\+Node (\begin{DoxyParamCaption}\item[{Node}]{node }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Rekurzivna metoda zaduzena za iscrtavanje objekata u sceni koji su reprezentovani cvorovima. U zavisnosti od karakteristika objekata podesavaju se odgovarajuce promenjive stanja (GL\+\_\+\+LIGHTING, GL\+\_\+\+COLOR\+\_\+\+MATERIAL, GL\+\_\+\+TEXTURE\+\_\+2D). 
+
+
+\begin{DoxyParams}{Parameters}
+{\em node} & Cvor koji ce biti iscrtan.\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+User/\+Documents/\+Git\+Hub/rgrafika/grafika/grafika/\+PF1\+S2.\+1/Assimp\+Scene.\+cs\end{DoxyCompactItemize}

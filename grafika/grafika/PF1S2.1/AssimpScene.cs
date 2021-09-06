@@ -1,9 +1,10 @@
 ﻿// -----------------------------------------------------------------------
 // <file>AssimpScene.cs</file>
-// <copyright>Grupa za Grafiku, Interakciju i Multimediju 2013.</copyright>
-// <author>Srđan Mihić, Aleksandar Josić</author>
+// <copyright>Grupa za Grafiku, Interakciju i Multimediju 2020</copyright>
+// <author>Jovana Svitić RA 38/2016</author>
 // <summary>Klasa enkapsulira programski kod za ucitavanje modela pomocu na AssimpNet biblioteke i prikazivanje modela uz uslonac na SharpGL biblioteku.</summary>
 // -----------------------------------------------------------------------
+
 using System;
 using System.Collections.Generic;
 using Assimp;
